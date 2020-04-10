@@ -53,7 +53,9 @@ You can also fork the project and do whatever you want ( Share and Adapt ) as lo
 
  [NoCursor by Jeffrey Morley](https://forum.rainmeter.net/viewtopic.php?p=97898#p97898)
 
- [FrostedGlass Plugin by theAzack9](https://forum.rainmeter.net/viewtopic.php?t=23106) 
+ [FrostedGlass Plugin by theAzack9](https://forum.rainmeter.net/viewtopic.php?t=23106)
+
+ [HotKey Plugin by Brian Ferguson](https://github.com/brianferguson/HotKey.dll)
 
 Logos edited with [GIMP](https://www.gimp.org/)
 

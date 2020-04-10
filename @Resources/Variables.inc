@@ -17,7 +17,7 @@ LCTop=F7C600
 LockHK=ALT L
 UnLockHK=ALT U
 ;;IdleTime | Default 120
-sleepA=90
+sleepA=120
 ;;Speed | Default : 2
 speedL=2
 ;; Width and height of the logo 
