@@ -21,15 +21,17 @@ BouncyDVD is a Rainmeter based skin that simulates the bouncing dvd logo screens
 
 BouncyDVD to works need [Rainmeter](https://www.rainmeter.net/)
 There are 2 important steps needed to use a Skin with Rainmeter
-1 - [How to install Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
-2 - [How to install Skins](https://docs.rainmeter.net/manual/installing-skins/)
+  1 - [How to install Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
+  2 - [How to install Skins](https://docs.rainmeter.net/manual/installing-skins/)
 
 For the second step you need the skin file wich have extension **.rmskin**
 So you have to download the latest skin file of BouncyDVD available in [Releases](https://github.com/d3ward/bouncydvd/releases)
 
 ## How to use & Update
-After you installed the skin , bouncyDVD is started working in background .
+After you installed the skin , BouncyDVD is started working in background .
+
 It can works on 2 ways, there is detection of idle and after 120 seconds you will see the bouncing logo or use the shortcut **ALT+L** to force the lock mode ( **ALT+U** to unlock )
+
 You can customize the logo , background , colors , idletime and shortcuts by reaching the settings.
 
 When on locked mode right click with the mouse to see the contextual menu , then "Open Settings" or you can open settings by loading the skin 'UISettings' in Rainmeter
