@@ -20,8 +20,9 @@ BouncyDVD is a Rainmeter based skin that simulates the bouncing dvd logo screens
 
 BouncyDVD to works need [Rainmeter](https://www.rainmeter.net/)
 There are 2 important steps needed to use a Skin with Rainmeter
-    - [How to install Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
-    - [How to install Skins](https://docs.rainmeter.net/manual/installing-skins/)
+
+- [How to install Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
+- [How to install Skins](https://docs.rainmeter.net/manual/installing-skins/)
 
 For the second step you need the skin file wich have extension **.rmskin**
 So you have to download the latest skin file of BouncyDVD available in [Releases](https://github.com/d3ward/bouncydvd/releases)
@@ -54,10 +55,11 @@ You can also fork the project and do whatever you want ( Share and Adapt ) as lo
 
  [FrostedGlass Plugin by theAzack9](https://forum.rainmeter.net/viewtopic.php?t=23106) 
 
-  Logos edited with [GIMP](https://www.gimp.org/)
+Logos edited with [GIMP](https://www.gimp.org/)
 
-    - [Rainmeter Logo](https://forum.rainmeter.net/viewtopic.php?t=28819) 
-    - [DVD Logo](https://it.wikipedia.org/wiki/File:DVD_logo.svg) 
+- [Rainmeter Logo](https://forum.rainmeter.net/viewtopic.php?t=28819)
+- [DVD Logo](https://it.wikipedia.org/wiki/File:DVD_logo.svg) 
+
 ----
 
 This project is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License
